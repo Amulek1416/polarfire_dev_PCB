@@ -123,23 +123,6 @@ GenerateClassCluster=0
 DocumentUniqueId=YPDOLMJE
 
 [Document6]
-DocumentPath=Imported ASP-134486-01.lia\ASP-134486-01.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EJCYCYEP
-
-[Document7]
 DocumentPath=Components.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QBHICKRD
 
-[Document8]
+[Document7]
 DocumentPath=FMC_connector.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document8]
 DocumentPath=FMC_connector_CD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FAGBZZOH
 
-[Document10]
+[Document9]
 DocumentPath=FMC_connector_A.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=I2C_sensors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=Ext_connections.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document12]
 DocumentPath=FMC_top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ALOVUWEN
 
-[Document14]
+[Document13]
 DocumentPath=top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WBHMIBUG
 
-[Document15]
+[Document14]
 DocumentPath=FMC_connector_EF.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HANGVOXG
 
-[Document16]
+[Document15]
 DocumentPath=FMC_connector_EF.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document16]
 DocumentPath=FMC_connector_AB.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document17]
 DocumentPath=FMC_connector_CD.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document18]
 DocumentPath=LVDS_UART.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YFUXAZQF
 
-[Document20]
+[Document19]
 DocumentPath=LVDS_UART.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document20]
 DocumentPath=Components.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GIXMGIHX
 
-[Document22]
+[Document21]
 DocumentPath=GPIO_LED_SW.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZIBHKWFM
 
-[Document23]
+[Document22]
 DocumentPath=GPIO_LED_SW.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
