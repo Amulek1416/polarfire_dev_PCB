@@ -7,7 +7,7 @@ History/*
 *.SchDocPreview
 __Previews/FMC_connector_A.SchDocPreview
 *.SchDocPreview
-__Previews/*
+__Previews\*
 *.SchDocPreview
 __Previews/FMC_connector_A.SchDocPreview
 *.SchDocPreview
