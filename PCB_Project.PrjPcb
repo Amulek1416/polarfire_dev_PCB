@@ -463,7 +463,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MVVSIJTI
 
 [Document26]
-DocumentPath=SheetADC.Harness
+DocumentPath=Accelerometer.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -480,7 +480,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document27]
-DocumentPath=Accelerometer.Harness
+DocumentPath=SheetADC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
